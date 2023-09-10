@@ -1,6 +1,6 @@
 # HR Analytics Dashboard - Tableau Project
 
-![HR Analytics]([https://ibb.co/5BkWVNV](https://i.ibb.co/qkCMwtw/Screenshot-118.png))
+![HR Analytics](https://i.ibb.co/qkCMwtw/Screenshot-118.png)
 
 This GitHub repository contains a Tableau project focused on HR analytics, which aims to provide valuable insights into employee attrition and retention within different departments. The project includes data analysis and the development of a user-friendly dashboard for HR professionals and decision-makers.
 
